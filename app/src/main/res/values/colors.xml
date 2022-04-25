@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_700">#390089</color>
     <color name="toolbar_color_control_normal">#3D3D3D</color>
+    <color name="grey">#D4DEE7</color>
 </resources>
